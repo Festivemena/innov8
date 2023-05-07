@@ -241,7 +241,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/Festivemena/Cubid",
+    source_code_link: "https://github.com/Festivemena/youtube-clone",
   },
   {
     name: "Metaversus NG",
