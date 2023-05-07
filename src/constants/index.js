@@ -241,7 +241,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/Festivemena",
+    source_code_link: "https://github.com/Festivemena/Cubid",
   },
   {
     name: "Metaversus NG",
@@ -262,7 +262,7 @@ const projects = [
       },
     ],
     image: metaversus,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Festivemena/Metaversus-NG",
   },
   // {
   //   name: "Everything Cedar",
@@ -304,7 +304,7 @@ const projects = [
       },
     ],
     image: xtelpt,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/X-Telpt/X-Telpt",
   },
 ];
 
