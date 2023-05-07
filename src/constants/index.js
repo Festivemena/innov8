@@ -222,6 +222,27 @@ const projects = [
   //   image: carrent,
   //   source_code_link: "https://github.com/",
   // },
+    {
+    name: "Cubid",
+    description:
+      "Cubid is a revolutionary YouTube clone that works so well with fetching data from the RapidApi YouTube api.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "RapidApi",
+        color: "green-text-gradient",
+      },
+      {
+        name: "MaterialUi",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/Festivemena",
+  },
   {
     name: "Metaversus NG",
     description:
