@@ -126,10 +126,11 @@ const experiences = [
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
-      "Developing Scalable Hardware Solutions that are impactful to societal growth and development.",
+      "Using Arduinos and other MCUs for product prototyping and industrial applications.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Utilizing the Raspberry pi models and other variants for developing scalable AI enabled products.9
+",
+      "Engaging in cloud integrations, internet of things(IOT) and others for product specialization.",
     ],
   },
   {
@@ -152,23 +153,23 @@ const experiences = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining MERN Stack Applications and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developing aesthetically pleasing websites and web applications.", 
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
-  },
+  }, 
   {
-    title: "Front-End Developer",
+    title: "Software Engineer",
     company_name: "Casio House",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Nextjs and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Working with Backend Frameworks in order to create Backend APIs for various usages.",
     ],
   },
 ];
