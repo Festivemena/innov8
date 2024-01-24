@@ -129,7 +129,6 @@ const experiences = [
       "Using Arduinos and other MCUs for product prototyping and industrial applications.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Utilizing the Raspberry pi models and other variants for developing scalable AI enabled products.",
-",
       "Engaging in cloud integrations, internet of things(IOT) and others for product specialization.",
     ],
   },
