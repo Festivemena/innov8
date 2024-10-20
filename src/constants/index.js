@@ -120,24 +120,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Hardware Engineer",
-    company_name: "Havitech Corps",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "March 2020 - April 2021",
-    points: [
-      "Using Arduinos and other MCUs for product prototyping and industrial applications.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Utilizing the Raspberry pi models and other variants for developing scalable AI enabled products.",
-      "Engaging in cloud integrations, internet of things(IOT) and others for product specialization.",
-    ],
-  },
-  {
     title: "React Native Developer",
     company_name: "X",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2021 - Oct 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -150,7 +137,7 @@ const experiences = [
     company_name: "Everything Cedar",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Jan 2022 - Nov 2022",
     points: [
       "Developing and maintaining MERN Stack Applications and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -163,12 +150,25 @@ const experiences = [
     company_name: "Casio House",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Jan 2022 - May 2023",
     points: [
       "Developing and maintaining web applications using Nextjs and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Working with Backend Frameworks in order to create Backend APIs for various usages.",
+    ],
+  },
+  {
+    title: "Hardware Engineer",
+    company_name: "Havitech Corps",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "Aug 2023 - Present",
+    points: [
+      "Using Arduinos and other MCUs for product prototyping and industrial applications.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Utilizing the Raspberry pi models and other variants for developing scalable AI enabled products.",
+      "Engaging in cloud integrations, internet of things(IOT) and others for product specialization.",
     ],
   },
 ];
@@ -192,7 +192,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Efemena optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Efemena optimized our website, our traffic increased by 50%. We can't thank him enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
